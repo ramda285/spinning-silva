@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/spin.unity
+    guid: a3626375a026cbf4b87c2b2645c72e04
+  - enabled: 1
+    path: Assets/fry1.unity
+    guid: 9887b962cd9bf1f48bb51dc19275ae13
+  - enabled: 1
+    path: Assets/fry2.unity
+    guid: 84a6751873b51034c8999535fca96282
+  - enabled: 1
+    path: Assets/end.unity
+    guid: e34a65c043af0ee46b5eaf56f60004fe
+  - enabled: 1
+    path: Assets/naichilab/unity-simple-ranking/Scenes/Ranking.unity
+    guid: 152244f5855414ac4a3874f14efa583c
+  m_configObjects: {}
