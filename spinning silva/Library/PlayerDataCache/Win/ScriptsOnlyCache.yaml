@@ -28,6 +28,8 @@ ScriptsOnlyBuild:
     - title
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -50,8 +52,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Text
     - UnityEngine.UI.VerticalLayoutGroup
-    com.unity.multiplayer-hlapi.Runtime.dll:
-    - UnityEngine.Networking.NetworkCallbacks
   sceneClasses:
     Assets/end.unity:
     - Class: 1
@@ -1296,4 +1296,4 @@ ScriptsOnlyBuild:
   - Assets/fry2.unity
   - Assets/end.unity
   - Assets/naichilab/unity-simple-ranking/Scenes/Ranking.unity
-  playerPath: "C:/Users/ramda/Documents/\u3059\u3074\u3057\u308B/spinning silva.exe"
+  playerPath: C:/Users/ramda/Documents/GitHub/spinning-silva/Windows/spinning silva.exe
